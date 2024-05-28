@@ -1,3 +1,4 @@
-module codingchallenges.fyi
+// module codingchallenges.fyi
+module cc.fyi
 
-go 1.21.4
+go 1.21.5
